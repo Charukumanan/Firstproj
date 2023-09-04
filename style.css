@@ -1,0 +1,39 @@
+.grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+}
+.tbh1{
+    font-family: cursive;
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size:xx-large;
+    font-stretch: condensed;
+    font-weight: 500;
+}
+/*.tbbody
+    {
+        background-image: url(tortoise-bird.jpeg);
+        background-size: 200px;
+        background-repeat: no-repeat;
+        background-position: right bottom;
+    }
+.bwbody
+    {
+        background-image: url(boywolf.jpeg);
+        background-image: no repeat;
+        background-size: cover;
+    }
+.gebody
+    {
+        background-image: url(goldenegg.jpeg);
+        background-image: no repeat;
+        background-size: cover;
+    }*/
+.tbpara{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+    
+}
